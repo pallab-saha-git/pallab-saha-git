@@ -1,38 +1,50 @@
-Welcome visitor
+<!-- # Welcome visitor -->
 
-# 👋 Hi there!
+# 👋 Hi there!  I’m Pallab Saha!
 
-I’m a **Senior Developer at Cognizant** with an **M.Tech in Robotics and Mobility Systems** from **IIT Jodhpur**, specializing in **AI, machine learning, and computer vision**. I’m passionate about building human-centered solutions that use technology to solve real-world problems—particularly for **senior citizens** and **people with special needs**.
-
----
-
-## 🔧 What I Work On
-
-- **🧠 AI & ML**: Building models with **CNNs, GANs, and NLP techniques**, including applications using **Azure OpenAI**
-- **👁️ Computer Vision**: Image processing, object detection, and real-time vision systems using **Python** and **OpenCV**
-- **☁️ Cloud & MLOps**: Model deployment via **Azure ML Studio**, **MLflow**, and integration with APIs and pipelines
-- **📊 Data Insights**: Designing **Power BI dashboards** for performance tracking and data storytelling
-- **🤖 Assistive Tech**: Focused on robotics systems that support emotional and functional needs
+🎓 M.Tech in Robotics & Mobility Systems from **IIT Jodhpur**  
+💼 Currently working as a **Senior Developer at Cognizant**  
+🧠 Passionate about building **AI-driven, human-centered solutions**, especially for **elderly care** and **special needs support**
 
 ---
 
-## 📜 Certifications
+## 🔍 What I Do
 
-- ✅ Microsoft Azure AI Engineer Associate  
-- ✅ Microsoft Azure AI Fundamentals  
-- ✅ Google Cloud Professional Machine Learning Engineer
+- 🧠 **Artificial Intelligence & ML**  
+  Building intelligent systems using **CNNs, GANs, transformers**, and **NLP** with tools like **Azure OpenAI** and **Hugging Face**
+
+- 👁️ **Computer Vision**  
+  Real-time image processing, object tracking, and video analytics using **Python**, **OpenCV**, and deep learning
+
+- ☁️ **Cloud & MLOps**  
+  Model deployment via **Azure ML**, **MLflow**, and seamless API integrations for scalable pipelines
+
+- 📊 **Data Insights & Dashboards**  
+  Storytelling through **Power BI**, uncovering patterns for decision-making
+
+- 🤖 **Assistive Robotics**  
+  Designing robotics systems for **emotional well-being** and **functional independence**
 
 ---
 
-## 🤝 Let’s Connect!
+## 🏅 Certifications
 
-I enjoy collaborating on **AI-driven innovation** and believe in building tech that’s inclusive, intelligent, and impactful.
-
-📫 Reach me at **psp19980@gmail.com**
+- 🪄 Microsoft **Azure AI Engineer Associate**
+- 📘 Microsoft **Azure AI Fundamentals**
+- ☁️ Google **Cloud Professional ML Engineer**
 
 ---
 
-> *“Tech should serve humanity—not just efficiency.”*
+## 💬 Let’s Connect!
+
+I believe **technology should empower lives**, not just optimize systems. If you're working on something impactful—**let’s talk!**
+
+📫 Email: **psp19980@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/pallab-saha-p7s/) | [Portfolio](https://pallabsaha.in/) 
+
+---
+
+> _“Technology should serve humanity—not just efficiency.”_
 
 
 <!--
