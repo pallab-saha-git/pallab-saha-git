@@ -40,7 +40,7 @@
 I believe **technology should empower lives**, not just optimize systems. If you're working on something impactful—**let’s talk!**
 
 📫 Email: **psp19980@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/pallab-saha-p7s/) | [Portfolio](https://pallabsaha.in/) 
+🔗 [LinkedIn](https://www.linkedin.com/in/pallab-saha-p7s/) | [Website](https://pallabsaha.in/) 
 
 ---
 
